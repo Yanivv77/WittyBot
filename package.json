@@ -1,9 +1,6 @@
 {
   "name": "hero",
   "version": "1.0.0",
-   "engines": {
-    "npm": "14.x"
-  }
   "description": "",
   "main": "app.js",
   "scripts": {
